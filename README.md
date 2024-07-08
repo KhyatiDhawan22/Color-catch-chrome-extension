@@ -10,7 +10,9 @@ Color Catcher is a Chrome extension designed to simplify color picking for web d
 
 ## Video Overview
 
-https://github.com/KhyatiDhawan22/refine_dashboard/assets/112753105/6707e0f2-f13b-407d-9055-5e403bc6a6aa
+
+![color_catcher_walkthrough_gif](https://github.com/KhyatiDhawan22/refine_dashboard/assets/112753105/a3e947f4-79e7-4dc6-a935-210d41007640)
+
 
 ## Installation
 
